@@ -3,9 +3,9 @@
 
 # Running Qwen2.5-Coder:7b with Ollama 
 
-### This guide is showing how to run Qwen model using Ollama model management tool.
+### This guide shows how to run the Qwen model using the Ollama model management tool.
 
- By default to interact with model user need to use terminal, I will try to create and atach the UI to interact with model using GUI, 
+ By default to interact with the model, the user needs to use the terminal, I will try to create and attach the UI to interact with the model using GUI, 
 
 
 
